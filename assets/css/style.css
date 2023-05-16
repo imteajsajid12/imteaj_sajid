@@ -37,6 +37,7 @@ body {
     margin-right: 0;
     width:100%;
     font-family: 'gotham_bookregular';
+    /*font-family: 'Pacifico', cursive;*/
 }
 
 /*------------------------------------------------------------------*/
@@ -893,8 +894,8 @@ Nav Menu style
 
 .navbar-brand {
     padding: 30px 15px;
-    font-family: 'Knewave', cursive;
-    font-size:48px;
+    font-family: 'Pacifico', cursive;
+    font-size:40px;
 }
 .main-nav li{
     padding: 10px 0;
@@ -1222,3 +1223,22 @@ Footer Section style
     padding: 0px 10px;
     color: #667189;
 }
+
+
+.skill-sec .over_pro .radial-progress {
+    max-width: 260px;
+}
+
+.skill-sec .over_pro circle {
+    stroke: #00b894;
+}
+.abt_hist {
+    padding-top: 30px;
+}
+
+.banner-right-img img {
+    max-width: 128% !important;
+}
+
+/*skils*/
+
