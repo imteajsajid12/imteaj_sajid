@@ -53,7 +53,7 @@
     border-bottom-width: 0px;
     border-right-width: 0px;
     border-top-color: #000;
-    animation: showText2 0.5s 1.5s linear forwards;
+    animation: showText2 0.5s 0.5s linear forwards;
   }
   .progress-line span::after{
     position: absolute; top: -28px;
@@ -63,7 +63,7 @@
     padding: 1px 8px;
     font-size: 12px;
     border-radius: 3px;
-    animation: showText2 0.5s 1.5s linear forwards;
+    animation: showText2 0.5s 0.6s linear forwards;
   }
   @keyframes animate {
     100%{
@@ -119,7 +119,7 @@
    
     .skill-bars{
       padding: 30px 30px;
-      width: 350px; 
+      width: 400px; 
       /*background: #fff;*/
       box-shadow: 5px 5px 20px rgba(0,0,0,0.2);
       border-radius: 8px;
