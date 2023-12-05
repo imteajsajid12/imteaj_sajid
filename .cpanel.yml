@@ -2,4 +2,5 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/imteajs1/public_html/
     - /bin/cp * $DEPLOYPATH
+
    
