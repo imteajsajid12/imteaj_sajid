@@ -114,7 +114,7 @@
 }
 
 #home .image{
-   
+    background: url(../img/splash.png) 43px 64px no-repeat;
 }
 .typed-cursor {
     font-size: 30px;
@@ -435,3 +435,38 @@
 .testimonial-carousel .owl-dot.active::after {
     background: var(--primary);
 }
+footer{
+    margin-top: 40px;
+}
+
+
+.author_text{
+    float: right;
+}
+.author_text h5,
+.author_text h6{
+    font-size:18px;
+    font-family: 'gotham_bookregular';
+}
+.author_text h6{
+    letter-spacing: 2px;
+}
+.author_text h1{
+    font-size:48px;
+    font-family: 'Knewave', cursive;
+}
+.copyright-left{
+    display: flex;
+    align-items: flex-end;
+}
+nav h1{
+font-family: 'Knewave', cursive;
+}
+
+nav{
+    background-color: #f0f0f013;
+    -webkit-backdrop-filter: blur(10px);
+}
+.bg-white {
+    background-color: rgba(255, 255, 255, 0.491) !important;
+    }
