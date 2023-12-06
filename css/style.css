@@ -113,7 +113,7 @@
     height: 520px;
 }
 
-#home .image{
+.home .image{
     background: url(../img/splash.png) 43px 64px no-repeat;
 }
 .typed-cursor {
