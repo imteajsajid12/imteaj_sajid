@@ -106,7 +106,7 @@
 /*** Header ***/
 #home {
     margin-bottom: 6rem;
-    background: url(../image/bg-header.png) left top no-repeat;
+    background: url(/image/bg-header.png) left top no-repeat;
 }
 #home img{
     filter: drop-shadow(5px 5px 15px gray);
@@ -114,7 +114,7 @@
 }
 
 .home .image{
-    background: url(../image/splash.png) 43px 64px no-repeat;
+    background: url(/image/splash.png) 43px 64px no-repeat;
 }
 .typed-cursor {
     font-size: 30px;
@@ -258,7 +258,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(../image/bg-icon.png) center center no-repeat;
+    background: url(/image/bg-icon.png) center center no-repeat;
     background-size: cover;
 }
 
